@@ -1,1 +1,0 @@
-CREATE SEQUENCE edzok_seq START WITH 5;

@@ -1,1 +1,0 @@
-CREATE SEQUENCE meccsek_seq START WITH 3;
