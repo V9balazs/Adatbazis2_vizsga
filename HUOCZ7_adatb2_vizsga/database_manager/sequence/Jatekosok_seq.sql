@@ -1,0 +1,1 @@
+CREATE SEQUENCE jatekosok_seq START WITH 21;
